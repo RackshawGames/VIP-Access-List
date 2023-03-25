@@ -118,3 +118,4 @@ Cosmic Nero|20|20
 Lake Of Death|199|199
 pvrslc|-100|100
 Nixxy~|-100|-100
+Nelavia|60|60

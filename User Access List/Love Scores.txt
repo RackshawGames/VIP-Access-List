@@ -62,7 +62,6 @@ deathwalker67|150|150
 Funghester|100|200
 Trav6|200|200
 Yuikuno|200|200
-ᴴᵃᵗʳᵉᵈ|200|200
 Midnight0wl|99|99
 Blake Blair|-50|200
 sirdom12|60|60
@@ -119,3 +118,5 @@ Lake Of Death|199|199
 pvrslc|-100|100
 Nixxy~|-100|-100
 Nelavia|60|60
+Andistime|60|60
+Ex_s|420|420

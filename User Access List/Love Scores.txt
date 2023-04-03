@@ -1,7 +1,6 @@
 Saber․|0|5
 Trap Haven|100|100
 Rackshaw|-100|-1
-Vr22s|22|22
 RiskyKen|100|200
 UV|0|16
 eu_logy|69|69
@@ -101,7 +100,6 @@ Mike-Dev|200|200
 TheBandit21|-100|-100
 permafrost_|70|70
 DemonLordZuul|-50|200
-Cluewless|-50|200
 JadeTears|200|200
 UrGhostGf|190|190
 ᵞᵒᵘʳƉᴇʌᴛнჼჼჼ|-50|200
@@ -114,9 +112,13 @@ Cosmic Nero|20|20
 ʟιʟ_ʙʟuᴇ_ғox|60|60
 ༒༻¢яувαву༺༒|100|100
 -SweetPoison|75|75
-Lake Of Death|199|199
+blood_ultima|199|199
 pvrslc|-100|100
 Nixxy~|-100|-100
 Nelavia|60|60
 Andistime|60|60
 Ex_s|420|420
+simpgodrudy|1|1
+Yastık|60|60
+Lеlіаոа
+NexTheUmbreon|-50|200

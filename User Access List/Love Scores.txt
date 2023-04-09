@@ -10,9 +10,7 @@ Raddi|-100|200
 ＾＾Shama|69|69
 Ghosty 21|121|200
 Drakedrakonisvr|-100|-100
-Underhandead|-100|-100
 -Tabby|70|200
-YuWillBeDeleted|13|13
 Shadowwzzz|50|50
 JMToth|-100|-100
 0DisguisedWolf0|100|100
@@ -39,11 +37,9 @@ One Winged King|100|100
 ․Frost|100|150
 TKLubbock|150|200
 Simbad|50|75
-DeZebro|80|100
 Vefros|65|65
 DarkSkye․|69|169
 KntaXs|-50|200
-［Churros］|80|120
 SirUwUrawrs|-10|85
 AleniaChi|200|200
 DistortedJinx|20|20
@@ -61,7 +57,6 @@ Trav6|200|200
 Yuikuno|200|200
 Midnight0wl|99|99
 Blake Blair|-50|200
-sirdom12|60|60
 ᴀᴋɪɪ|-50|200
 -Marshmellow-|69|100
 Servaxio|-50|200
@@ -103,14 +98,11 @@ UrGhostGf|190|190
 ᵞᵒᵘʳƉᴇʌᴛнჼჼჼ|-50|200
 The1stMason|69|200
 CompletelyVoid|169|169
-Dr Badboy Bunny|200|200
 Qgamerking|-100|-100
-GOTHBLACK|-50|200
 Cosmic Nero|20|20
 ʟιʟ_ʙʟuᴇ_ғox|60|60
 ༒༻¢яувαву༺༒|100|100
 -SweetPoison|75|75
-blood_ultima|199|199
 pvrslc|-100|100
 Nixxy~|-100|-100
 Andistime|60|60
@@ -122,3 +114,7 @@ NexTheUmbreon|-50|200
 SadaYama|70|200
 twitchcitxrus|200|200
 _ziggyy_|-100|200
+TSUKI CAT|-80|200
+Blood_ultima|199|199
+FreckledJesus7|75|75
+Aparre|111|111

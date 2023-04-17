@@ -75,7 +75,6 @@ Ramya|50|200
 ღ boba bun ღ|-30|150
 Darksouly|120|120
 ItsLumi|-50|200
-LittleSoraツ ＾ὠ＾|-50|200
 PokyCoder704|60|60
 Valkyriaz|50|200
 ᴍᴀʟɪᴄᴇ|80|80
@@ -84,11 +83,8 @@ ArkAngel12122|-50|200
 ~Proto_VA~|-100|200
 _Rizzo|69|69
 Erinthox|80|200
-Booly|100|100
 BloomingSakura|100|100
-Nok0|69|69
 XxYumekoxX|10|200
-Nayommaise|75|200
 Mike-Dev|200|200
 TheBandit21|-100|-100
 permafrost_|70|70
@@ -123,3 +119,5 @@ AlexsTB|-120|132
 ༺༒Ｓｐｅｅｃｈｉｅｅ༒༻|100|100
 Tracixs|80|80
 TheGoddessPink|50|200
+༺Fuzion༻|-50|200
+pinkymimi2002|200|200

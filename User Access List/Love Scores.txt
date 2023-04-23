@@ -51,7 +51,6 @@ Radio Miku|30|30
 ShadowShard|-60|200
 ItssBio|60|60
 deathwalker67|150|150
-Funghester|100|200
 Trav6|200|200
 Yuikuno|200|200
 Midnight0wl|99|99
@@ -102,7 +101,6 @@ Andistime|60|60
 Ex_s|420|420
 simpgodrudy|1|1
 Yastık|60|60
-Lеlіаոа
 NexTheUmbreon|-50|200
 SadaYama|70|200
 twitchcitxrus|200|200
@@ -121,3 +119,5 @@ Lɪʟ Kɪᴍʙᴀ|-40|200
 MarcoPizzaMan|-100|300
 GR4VE|-50|200
 Tracixs|80|80
+C j a i y e シ|30|150
+DementedFrost|-100|150

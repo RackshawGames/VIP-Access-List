@@ -93,16 +93,12 @@ The1stMason|69|200
 CompletelyVoid|169|169
 Qgamerking|-100|-100
 ʟιʟ_ʙʟuᴇ_ғox|60|60
-༒༻¢яувαву༺༒|100|100
 -SweetPoison|75|75
-pvrslc|-100|100
 Nixxy~|-100|-100
 Andistime|60|60
-Ex_s|420|420
 simpgodrudy|1|1
 Yastık|60|60
 NexTheUmbreon|-50|200
-SadaYama|70|200
 twitchcitxrus|200|200
 _ziggyy_|-100|200
 TSUKI CAT|-80|200
@@ -121,3 +117,4 @@ GR4VE|-50|200
 Tracixs|80|80
 C j a i y e シ|30|150
 DementedFrost|-100|150
+SteamPunk_Kovar|50|200

@@ -118,3 +118,5 @@ Tracixs|80|80
 C j a i y e シ|30|150
 DementedFrost|-100|150
 SteamPunk_Kovar|50|200
+ItsThatVapes|80|200
+ShadowWolves|-50|200

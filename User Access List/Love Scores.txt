@@ -2,7 +2,6 @@ Saber․|0|5
 Trap Haven|100|100
 Rackshaw|-100|-1
 RiskyKen|100|200
-UV|0|16
 eu_logy|69|69
 Valkyrie Bae|50|50
 Raddi|-100|200
@@ -22,7 +21,6 @@ ABu11dog|-100|200
 marcussssss|69|69
 R̅o̅k̅k̅a̅|90|170
 Jack OLantern|50|100
-ScarlyStarlight|200|200
 Pure_Aussie|95|200
 ReconScully|30|30
 SmileDaemon|100|200
@@ -120,3 +118,5 @@ DementedFrost|-100|150
 SteamPunk_Kovar|50|200
 ItsThatVapes|80|200
 ShadowWolves|-50|200
+~Scarly~|200|200
+ᴘᴜᴘᴘʏ․dll|60|60

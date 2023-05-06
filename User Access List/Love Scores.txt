@@ -1,4 +1,3 @@
-Saber․|0|5
 Trap Haven|100|100
 Rackshaw|-100|-1
 RiskyKen|100|200
@@ -61,10 +60,10 @@ Chickane
 DistortedJinx|60|60
 TurleQueen13|69|69
 SpiritRage|20|20
-RootsInGold|200|200
+RootsInGold|100|200
 DarkestShot|200|200
 TheMakeAWishKid|-50|200
-down_to_clown|169|169
+_VΣX_|169|169
 Shammÿ|-5|117
 AquaÐog|70|70
 Ramya|50|200
@@ -120,3 +119,5 @@ ItsThatVapes|80|200
 ShadowWolves|-50|200
 ~Scarly~|200|200
 ᴘᴜᴘᴘʏ․dll|60|60
+SkellyVamps|-50|200
+FettyKreuger|-50|200

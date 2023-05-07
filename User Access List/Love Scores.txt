@@ -15,7 +15,6 @@ JMToth|-100|-100
 DiztyDoo|169|169
 immis|69|200
 VirtualChaos|80|80
-Atrocitus666|60|60
 ABu11dog|-100|200
 marcussssss|69|69
 R̅o̅k̅k̅a̅|90|170
@@ -34,7 +33,6 @@ One Winged King|100|100
 ․Frost|100|150
 TKLubbock|150|200
 Simbad|50|75
-Vefros|65|65
 DarkSkye․|69|169
 KntaXs|-50|200
 AleniaChi|200|200
@@ -45,7 +43,6 @@ Halogod1337|60|60
 ItsCripsy|90|200
 Woodstock0710|0|200
 Radio Miku|30|30
-ShadowShard|-60|200
 ItssBio|60|60
 deathwalker67|150|150
 Trav6|200|200
@@ -67,7 +64,6 @@ _VΣX_|169|169
 Shammÿ|-5|117
 AquaÐog|70|70
 Ramya|50|200
-Darksouly|120|120
 ItsLumi|-50|200
 PokyCoder704|60|60
 Valkyriaz|50|200
@@ -96,7 +92,6 @@ Andistime|60|60
 simpgodrudy|1|1
 Yastık|60|60
 NexTheUmbreon|-50|200
-twitchcitxrus|200|200
 _ziggyy_|-100|200
 TSUKI CAT|-80|200
 Blood_ultima|199|199
@@ -121,3 +116,4 @@ ShadowWolves|-50|200
 ᴘᴜᴘᴘʏ․dll|60|60
 SkellyVamps|-50|200
 FettyKreuger|-50|200
+phoenix_DK|60|60

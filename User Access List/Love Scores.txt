@@ -79,7 +79,6 @@ Mike-Dev|200|200
 TheBandit21|-100|-100
 permafrost_|70|70
 DemonLordZuul|-50|200
-JadeTears|200|200
 UrGhostGf|190|190
 ᵞᵒᵘʳƉᴇʌᴛнჼჼჼ|-50|200
 The1stMason|69|200
@@ -117,3 +116,6 @@ ShadowWolves|-50|200
 SkellyVamps|-50|200
 FettyKreuger|-50|200
 phoenix_DK|60|60
+~Ayano|200|200
+ChuckWiles|60|60
+Light Bender|200|200

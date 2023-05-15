@@ -119,3 +119,5 @@ phoenix_DK|60|60
 ~Ayano|200|200
 ChuckWiles|60|60
 Light Bender|200|200
+Bootkeg|85|100
+Chacon|70|70

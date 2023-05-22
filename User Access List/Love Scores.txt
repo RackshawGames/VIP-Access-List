@@ -122,3 +122,6 @@ Bootkeg|85|100
 Chacon|70|70
 r͓̽o͓̽k͓̽k͓̽a͓̽|90|170
 Cliffton James|70|70
+HeliosPhoenix|87|87
+Akira-Rose|200|200
+scourge103|150|150

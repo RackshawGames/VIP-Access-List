@@ -7,7 +7,7 @@ Raddi|-100|200
 -JunioR-|-100|200
 ＾＾Shama|69|69
 Ghosty 21|121|200
-Drakedrakonisvr|-100|-100
+Drakedrakonisvr|100|200
 -Tabby|70|200
 Shadowwzzz|50|50
 JMToth|-100|-100
@@ -17,7 +17,6 @@ immis|69|200
 VirtualChaos|80|80
 ABu11dog|-100|200
 marcussssss|69|69
-R̅o̅k̅k̅a̅|90|170
 Jack OLantern|50|100
 Pure_Aussie|95|200
 ReconScully|30|30
@@ -121,3 +120,5 @@ ChuckWiles|60|60
 Light Bender|200|200
 Bootkeg|85|100
 Chacon|70|70
+r͓̽o͓̽k͓̽k͓̽a͓̽|90|170
+Cliffton James|70|70

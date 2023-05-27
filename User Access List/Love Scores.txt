@@ -105,7 +105,6 @@ Lɪʟ Kɪᴍʙᴀ|-40|200
 MarcoPizzaMan|-100|300
 GR4VE|-50|200
 Tracixs|80|80
-C j a i y e シ|30|150
 DementedFrost|-100|150
 SteamPunk_Kovar|50|200
 ItsThatVapes|80|200
@@ -125,3 +124,7 @@ Cliffton James|70|70
 HeliosPhoenix|87|87
 Akira-Rose|200|200
 scourge103|150|150
+Vefros|50|50
+Zurui_Kitsune|75|75
+Mane124|101|101
+Ex_s|420|420

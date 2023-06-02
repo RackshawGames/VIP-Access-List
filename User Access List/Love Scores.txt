@@ -114,7 +114,6 @@ ShadowWolves|-50|200
 SkellyVamps|-50|200
 FettyKreuger|-50|200
 phoenix_DK|60|60
-~Ayano|200|200
 ChuckWiles|60|60
 Light Bender|200|200
 Bootkeg|85|100
@@ -128,3 +127,4 @@ Vefros|50|50
 Zurui_Kitsune|75|75
 Mane124|101|101
 Ex_s|420|420
+BaconAndEggz|69|69

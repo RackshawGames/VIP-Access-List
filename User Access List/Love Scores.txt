@@ -96,7 +96,6 @@ Blood_ultima|199|199
 FreckledJesus7|75|75
 Aparre|111|111
 Preoccupied_z|30|200
-AlexsTB|-120|132
 ༺༒Ｓｐｅｅｃｈｉｅｅ༒༻|100|100
 TheGoddessPink|50|200
 ༺Fuzion༻|-50|200
@@ -128,3 +127,5 @@ Zurui_Kitsune|75|75
 Mane124|101|101
 Ex_s|420|420
 BaconAndEggz|69|69
+MomComePickMeUp|0|200
+＄hádów|50|50

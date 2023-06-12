@@ -127,3 +127,6 @@ BaconAndEggz|69|69
 MomComePickMeUp|0|200
 ＄hádów|50|50
 Babe-|200|200
+TheBoz|50|50
+GingerWhoSings|120|120
+_Sushiii|100|200

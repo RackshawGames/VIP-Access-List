@@ -130,3 +130,4 @@ Babe-|200|200
 TheBoz|50|50
 GingerWhoSings|120|120
 _Sushiii|100|200
+Rоse|-1|-1

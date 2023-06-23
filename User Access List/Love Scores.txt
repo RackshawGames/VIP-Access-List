@@ -62,7 +62,7 @@ TheMakeAWishKid|-50|200
 _VΣX_|169|169
 Shammÿ|-5|117
 AquaÐog|70|70
-Ramya|50|200
+Ramya|-100|200
 ItsLumi|-50|200
 PokyCoder704|60|60
 Valkyriaz|50|200
@@ -126,8 +126,9 @@ BaconAndEggz|69|69
 MomComePickMeUp|0|200
 ＄hádów|50|50
 Babe-|200|200
-TheBoz|50|50
+TheBoz|169|169
 GingerWhoSings|120|120
 _Sushiii|100|200
 Rоse|-1|-1
 trocks6|200|200
+Rael Ozi

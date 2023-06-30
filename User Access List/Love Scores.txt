@@ -46,7 +46,6 @@ ItssBio|60|60
 deathwalker67|150|150
 Trav6|200|200
 Yuikuno|200|200
-Midnight0wl|99|99
 Blake Blair|-50|200
 ᴀᴋɪɪ|-50|200
 -Marshmellow-|69|100
@@ -64,9 +63,8 @@ Shammÿ|-5|117
 AquaÐog|70|70
 Ramya|-100|200
 ItsLumi|-50|200
-PokyCoder704|60|60
+PokyCoder704|69|69
 Valkyriaz|50|200
-ᴍᴀʟɪᴄᴇ|80|80
 Ragnaruniar|60|60
 ArkAngel12122|-50|200
 ~Proto_VA~|-100|200
@@ -116,7 +114,6 @@ Bootkeg|85|100
 Chacon|70|70
 Cliffton James|70|70
 Vefros|50|50
-Zurui_Kitsune|75|75
 Mane124|101|101
 Ex_s|420|420
 BaconAndEggz|69|69
@@ -130,3 +127,5 @@ Rоse|-1|-1
 trocks6|200|200
 Piticus|76|76
 Rael Ozi|200|200
+starstorm_|80|100
+Lux999|60|60

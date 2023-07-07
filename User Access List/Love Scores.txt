@@ -61,7 +61,7 @@ _VΣX_|169|169
 Shammÿ|-5|117
 AquaÐog|70|70
 Ramya|-100|200
-ItsLumi|-50|200
+ItsLumi|0|200
 PokyCoder704|69|69
 Valkyriaz|50|200
 Ragnaruniar|60|60
@@ -129,3 +129,6 @@ starstorm_|80|100
 Lux999|60|60
 Mats.|-50|200
 Rσʂҽ|60|60
+Hamsten|69|69
+ItsUpsetToast|50|200
+Mαɾιαɳα|90|200

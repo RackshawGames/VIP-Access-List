@@ -31,7 +31,6 @@ TactfullWolf|60|200
 One Winged King|100|100
 ․Frost|100|150
 TKLubbock|150|200
-Simbad|50|75
 DarkSkye․|69|169
 KntaXs|-50|200
 AleniaChi|200|200
@@ -84,13 +83,11 @@ Nixxy~|-100|-100
 simpgodrudy|1|1
 Yastık|60|60
 NexTheUmbreon|-50|200
-_ziggyy_|-100|200
 TSUKI CAT|-80|200
 Blood_ultima|199|199
 FreckledJesus7|75|75
 Preoccupied_z|30|200
 ༺༒Ｓｐｅｅｃｈｉｅｅ༒༻|100|100
-TheGoddessPink|50|200
 ༺Fuzion༻|-50|200
 pinkymimi2002|200|200
 Lɪʟ Kɪᴍʙᴀ|-40|200
@@ -119,7 +116,6 @@ MomComePickMeUp|0|200
 ＄hádów|50|50
 Babe-|200|200
 TheBoz|169|169
-GingerWhoSings|120|120
 _Sushiii|100|200
 Rоse|-1|-1
 trocks6|200|200

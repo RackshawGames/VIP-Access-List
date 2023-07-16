@@ -117,7 +117,6 @@ MomComePickMeUp|0|200
 Babe-|200|200
 TheBoz|169|169
 _Sushiii|100|200
-Rоse|-1|-1
 trocks6|200|200
 Piticus|76|76
 Rael Ozi|200|200
@@ -129,4 +128,5 @@ Hamsten|69|69
 ItsUpsetToast|50|200
 Mαɾιαɳα|90|200
 CysuneSoul|200|200
-ShadowWolfyTV|60|60
+GodsLostAngel|60|60
+Meruツ|60|60

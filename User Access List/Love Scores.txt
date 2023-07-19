@@ -70,7 +70,6 @@ _Rizzo|69|69
 Erinthox|80|200
 BloomingSakura|100|100
 XxYumekoxX|10|200
-Mike-Dev|200|200
 TheBandit21|-100|-100
 permafrost_|70|70
 DemonLordZuul|-50|200
@@ -130,3 +129,6 @@ Mαɾιαɳα|90|200
 CysuneSoul|200|200
 GodsLostAngel|60|60
 Meruツ|60|60
+TheGoddessPink|-100|200
+NotKonverse|200|200
+NShaw|-100|200

@@ -132,3 +132,5 @@ Meruツ|60|60
 TheGoddessPink|-100|200
 NotKonverse|200|200
 NShaw|-100|200
+Marmarella|-50|200
+GundamSix|98|98

@@ -67,11 +67,9 @@ Ragnaruniar|60|60
 ArkAngel12122|-50|200
 ~Proto_VA~|-100|200
 _Rizzo|69|69
-Erinthox|80|200
 BloomingSakura|100|100
 XxYumekoxX|10|200
 TheBandit21|-100|-100
-permafrost_|70|70
 DemonLordZuul|-50|200
 UrGhostGf|190|190
 ᵞᵒᵘʳƉᴇʌᴛнჼჼჼ|-50|200
@@ -119,7 +117,6 @@ _Sushiii|100|200
 trocks6|200|200
 Piticus|76|76
 Rael Ozi|200|200
-starstorm_|80|100
 Lux999|60|60
 Mats.|-50|200
 Rσʂҽ|60|60
@@ -133,4 +130,6 @@ TheGoddessPink|-100|200
 NotKonverse|200|200
 NShaw|-100|200
 Marmarella|-50|200
-GundamSix|98|98
+GundamSix|200|200
+Dirtybyrds|169|169
+UltronBlack|-50|200

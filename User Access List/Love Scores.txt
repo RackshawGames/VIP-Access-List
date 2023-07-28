@@ -34,7 +34,6 @@ TKLubbock|150|200
 DarkSkye․|69|169
 KntaXs|-50|200
 AleniaChi|200|200
-DistortedJinx|20|20
 Jimbalina|100|200
 kainw123|200|200
 Halogod1337|60|60
@@ -50,7 +49,6 @@ Blake Blair|-50|200
 Servaxio|-50|200
 Finnemara|100|200
 Chickane
-DistortedJinx|60|60
 TurleQueen13|69|69
 SpiritRage|20|20
 RootsInGold|100|200
@@ -70,7 +68,6 @@ _Rizzo|69|69
 BloomingSakura|100|100
 XxYumekoxX|10|200
 TheBandit21|-100|-100
-DemonLordZuul|-50|200
 UrGhostGf|190|190
 ᵞᵒᵘʳƉᴇʌᴛнჼჼჼ|-50|200
 The1stMason|69|200
@@ -78,7 +75,6 @@ CompletelyVoid|169|169
 ʟιʟ_ʙʟuᴇ_ғox|60|60
 Nixxy~|-100|-100
 simpgodrudy|1|1
-Yastık|60|60
 NexTheUmbreon|-50|200
 TSUKI CAT|-80|200
 Blood_ultima|199|199
@@ -106,7 +102,6 @@ Bootkeg|85|100
 Chacon|70|70
 Cliffton James|70|70
 Vefros|50|50
-Mane124|101|101
 Ex_s|420|420
 BaconAndEggz|69|69
 MomComePickMeUp|0|200
@@ -133,3 +128,4 @@ Marmarella|-50|200
 GundamSix|200|200
 Dirtybyrds|169|169
 UltronBlack|-50|200
+LIL_OOF|200|200

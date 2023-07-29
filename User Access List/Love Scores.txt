@@ -129,3 +129,4 @@ GundamSix|200|200
 Dirtybyrds|169|169
 UltronBlack|-50|200
 LIL_OOF|200|200
+TheSmallAsian|200|200

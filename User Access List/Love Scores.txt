@@ -44,7 +44,7 @@ ItssBio|60|60
 deathwalker67|150|150
 Trav6|200|200
 Yuikuno|200|200
-Blake Blair|-50|200
+Blake Blair|-100|200
 ᴀᴋɪɪ|-50|200
 Servaxio|-50|200
 Finnemara|100|200

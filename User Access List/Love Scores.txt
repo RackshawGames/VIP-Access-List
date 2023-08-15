@@ -52,7 +52,7 @@ Shammÿ|-5|117
 AquaÐog|70|70
 Ramya|-100|200
 ItsLumi|0|200
-PokyCoder704|69|69
+PokyCoder704|169|169
 Valkyriaz|50|200
 Ragnaruniar|60|60
 ArkAngel12122|-50|200
@@ -99,7 +99,6 @@ Ex_s|420|420
 BaconAndEggz|69|69
 MomComePickMeUp|0|200
 ＄hádów|50|50
-Babe-|200|200
 TheBoz|169|169
 _Sushiii|100|200
 trocks6|200|200
@@ -111,16 +110,18 @@ Hamsten|69|69
 ItsUpsetToast|50|200
 Mαɾιαɳα|90|200
 CysuneSoul|200|200
-GodsLostAngel|60|60
 Meruツ|60|60
 TheGoddessPink|-100|200
 NotKonverse|200|200
-NShaw|-100|200
 Marmarella|-50|200
-GundamSix|200|200
+GundamSix|145|200
 Dirtybyrds|169|169
 UltronBlack|-50|200
 LIL_OOF|200|200
 TheSmallAsian|200|200
 ღSpicyMangoღ|69|69
 ~Ayano|200|200
+T3chN3rdVR|50|200
+Jamieline|200|200
+Maiaer|75|200
+ღ boba bun ღ|50|50
